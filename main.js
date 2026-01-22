@@ -21,16 +21,13 @@ var baseMaps = {
 
 L.control.layers(baseMaps).addTo(map);
 
-const crossIcon = L.divIcon({
-    className: 'cross-marker',
-    iconSize: [20, 20],
-    iconAnchor: [10, 10]
-});
-
 
 // Ikonka markerów
-pointToLayer: (feature, latlng) =>
-    L.marker(latlng, { icon: crossIcon }),
+var ikonka = L.AwesomeMarkers.icon({
+  icon: 'church',
+  prefix: 'fa',
+  markerColor: 'blue'
+});
 
 // Wczytanie świątyń
 fetch('swiatynie.geojson')
