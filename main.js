@@ -21,12 +21,16 @@ var baseMaps = {
 
 L.control.layers(baseMaps).addTo(map);
 
-// Ikonka markerów
-var ikonka = L.AwesomeMarkers.icon({
-  icon: 'building',
-  prefix: 'fa',
-  markerColor: 'blue'
+const crossIcon = L.divIcon({
+    className: 'cross-marker',
+    iconSize: [20, 20],
+    iconAnchor: [10, 10]
 });
+
+
+// Ikonka markerów
+pointToLayer: (feature, latlng) =>
+    L.marker(latlng, { icon: crossIcon }),
 
 // Wczytanie świątyń
 fetch('swiatynie.geojson')
@@ -56,4 +60,5 @@ L.easyPrint({
   position: 'topleft',
   sizeModes: ['Current', 'A4Landscape', 'A4Portrait']
 }).addTo(map);
+
 
