@@ -1,0 +1,244 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.45835, 51.75921] },
+      "properties": {
+        "nazwa": "Archikatedra św. Stanisława Kostki",
+        "wyznanie": "rzymskokatolickie",
+        "rok_budowy": "1901–1912",
+        "adres": "ul. Piotrkowska 265",
+        "styl": "neogotyk",
+        "opis": "Główna świątynia archidiecezji łódzkiej.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Katedra_%C5%82%C3%B3dzka.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.46087, 51.77551] },
+      "properties": {
+        "nazwa": "Kościół Wniebowzięcia NMP",
+        "wyznanie": "rzymskokatolickie",
+        "rok_budowy": "1639–1645",
+        "adres": "pl. Kościelny 8",
+        "styl": "barok",
+        "opis": "Najstarszy zachowany kościół w Łodzi.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kosciol_Wniebowziecia_NMP_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.48063, 51.75242] },
+      "properties": {
+        "nazwa": "Kościół św. Józefa Oblubieńca",
+        "wyznanie": "rzymskokatolickie",
+        "rok_budowy": "1904–1909",
+        "adres": "ul. Ogrodowa 22",
+        "styl": "neogotyk",
+        "opis": "Kościół parafialny na terenie dawnej dzielnicy fabrycznej.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/1/15/Kosciol_sw_Jozefa_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.42361, 51.76391] },
+      "properties": {
+        "nazwa": "Kościół św. Teresy od Dzieciątka Jezus",
+        "wyznanie": "rzymskokatolickie",
+        "rok_budowy": "1928–1931",
+        "adres": "ul. Kopernika 1/3",
+        "styl": "modernizm",
+        "opis": "Kościół w zachodniej części Łodzi.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kosciol_sw_Teresy_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.43891, 51.75998] },
+      "properties": {
+        "nazwa": "Kościół św. Mateusza (ewangelicki)",
+        "wyznanie": "ewangelickie",
+        "rok_budowy": "1923–1928",
+        "adres": "ul. Piotrkowska 283",
+        "styl": "neoromański",
+        "opis": "Największy kościół ewangelicki w Polsce.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kosciol_sw_Mateusza_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.44977, 51.77692] },
+      "properties": {
+        "nazwa": "Kościół św. Jana (ewangelicki)",
+        "wyznanie": "ewangelickie",
+        "rok_budowy": "1880–1884",
+        "adres": "ul. Sienkiewicza 60",
+        "styl": "neogotyk",
+        "opis": "Historyczny kościół luterański.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Kosciol_sw_Jana_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.46752, 51.75992] },
+      "properties": {
+        "nazwa": "Sobór św. Aleksandra Newskiego",
+        "wyznanie": "prawosławne",
+        "rok_budowy": "1880–1884",
+        "adres": "ul. Kilińskiego 56",
+        "styl": "bizantyjsko-rosyjski",
+        "opis": "Cerkiew prawosławna w centrum miasta.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/6/66/Cerkiew_Aleksandra_Newskiego_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.45562, 51.77432] },
+      "properties": {
+        "nazwa": "Synagoga Reicherów",
+        "wyznanie": "judaizm",
+        "rok_budowy": "1902",
+        "adres": "ul. Rewolucji 1905 r. 28",
+        "styl": "eklektyzm",
+        "opis": "Jedyna czynna synagoga w Łodzi.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/9/98/Synagoga_Reicherow_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.45881, 51.77616] },
+      "properties": {
+        "nazwa": "Miejsce po Wielkiej Synagodze",
+        "wyznanie": "judaizm",
+        "rok_budowy": "1887 (zniszczona 1939)",
+        "adres": "Plac Wolności",
+        "styl": "neorenesans",
+        "opis": "Historyczna lokalizacja największej synagogi w Łodzi.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Wielka_Synagoga_Lodz_1900.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.47791, 51.77083] },
+      "properties": {
+        "nazwa": "Kościół mariawicki św. Franciszka",
+        "wyznanie": "mariawici",
+        "rok_budowy": "1909–1910",
+        "adres": "ul. Franciszkańska 27",
+        "styl": "neogotyk",
+        "opis": "Świątynia Kościoła Starokatolickiego Mariawitów.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Kosciol_mariawicki_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.46884, 51.76153] },
+      "properties": {
+        "nazwa": "Kościół baptystów",
+        "wyznanie": "baptyści",
+        "rok_budowy": "1881",
+        "adres": "ul. Nawrot 27",
+        "styl": "eklektyzm",
+        "opis": "Jedna z najstarszych wspólnot baptystycznych w Polsce.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Kosciol_baptystow_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.43321, 51.77188] },
+      "properties": {
+        "nazwa": "Kościół polskokatolicki św. Ducha",
+        "wyznanie": "polskokatolickie",
+        "rok_budowy": "1931",
+        "adres": "ul. Limanowskiego 60",
+        "styl": "modernizm",
+        "opis": "Świątynia Kościoła Polskokatolickiego.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Kosciol_polskokatolicki_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.49174, 51.75293] },
+      "properties": {
+        "nazwa": "Kościół Najświętszego Serca Jezusowego",
+        "wyznanie": "rzymskokatolickie",
+        "rok_budowy": "1904–1913",
+        "adres": "ul. Piotrkowska 102",
+        "styl": "neogotyk",
+        "opis": "Jedna z najbardziej rozpoznawalnych świątyń przy ul. Piotrkowskiej.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Kosciol_NSJ_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.47112, 51.74854] },
+      "properties": {
+        "nazwa": "Kościół Adwentystów Dnia Siódmego",
+        "wyznanie": "adwentyści",
+        "rok_budowy": "1930",
+        "adres": "ul. Rzgowska 51",
+        "styl": "modernizm",
+        "opis": "Świątynia wspólnoty adwentystycznej.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kosciol_adwentystow_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.46013, 51.75384] },
+      "properties": {
+        "nazwa": "Kościół Zielonoświątkowy „Oaza”",
+        "wyznanie": "zielonoświątkowe",
+        "rok_budowy": "XX w.",
+        "adres": "ul. Nawrot 27",
+        "styl": "współczesny",
+        "opis": "Kościół chrześcijański nurtu zielonoświątkowego.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kosciol_zielonoswiatkowy_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.45492, 51.78044] },
+      "properties": {
+        "nazwa": "Dawny kościół ewangelicki św. Trójcy",
+        "wyznanie": "ewangelickie",
+        "rok_budowy": "1846",
+        "adres": "ul. Pomorska",
+        "styl": "klasycyzm",
+        "opis": "Historyczna świątynia ewangelicka.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kosciol_sw_Trojcy_Lodz.jpg"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [19.44621, 51.77011] },
+      "properties": {
+        "nazwa": "Kaplica ewangelicko-reformowana (historyczna)",
+        "wyznanie": "ewangelicko-reformowane",
+        "rok_budowy": "XIX w.",
+        "adres": "centrum Łodzi",
+        "styl": "historyzujący",
+        "opis": "Historyczna lokalizacja kaplicy reformowanej.",
+        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/8/89/Kaplica_reformowana_Lodz.jpg"
+      }
+    }
+
+  ]
+}
