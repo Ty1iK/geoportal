@@ -23,7 +23,7 @@ L.control.layers(baseMaps).addTo(map);
 
 // Ikonka markerów
 var ikonka = L.AwesomeMarkers.icon({
-  icon: 'church',
+  icon: 'building',
   prefix: 'fa',
   markerColor: 'blue'
 });
@@ -56,3 +56,4 @@ L.easyPrint({
   position: 'topleft',
   sizeModes: ['Current', 'A4Landscape', 'A4Portrait']
 }).addTo(map);
+
