@@ -23,11 +23,13 @@ L.control.layers(baseMaps).addTo(map);
 
 
 // Ikonka markerów
-var ikonka = L.AwesomeMarkers.icon({
-  icon: 'church',
-  prefix: 'fa',
-  markerColor: 'blue'
+var ikonka = L.divIcon({
+  html: '✝',
+  className: 'church-icon',
+  iconSize: [30, 30],
+  iconAnchor: [15, 15]
 });
+
 
 // Wczytanie świątyń
 fetch('swiatynie.geojson')
@@ -57,6 +59,7 @@ L.easyPrint({
   position: 'topleft',
   sizeModes: ['Current', 'A4Landscape', 'A4Portrait']
 }).addTo(map);
+
 
 
 
