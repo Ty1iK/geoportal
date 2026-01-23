@@ -74,7 +74,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.56153, 51.74237] },
+      "geometry": { "type": "Point", "coordinates": [19.56079, 51.74039] },
       "properties": {
         "nazwa": "Kościół św. Jana (ewangelicki)",
         "wyznanie": "ewangelickie",
@@ -186,7 +186,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.48252, 51.74408] },
+      "geometry": { "type": "Point", "coordinates": [19.48198, 51.74261] },
       "properties": {
         "nazwa": "Kościół Adwentystów Dnia Siódmego",
         "wyznanie": "adwentyści",
@@ -242,6 +242,7 @@
 
   ]
 }
+
 
 
 
