@@ -4,7 +4,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.45835, 51.75921] },
+      "geometry": { "type": "Point", "coordinates": [51.74911, 19.46028] },
       "properties": {
         "nazwa": "Archikatedra św. Stanisława Kostki",
         "wyznanie": "rzymskokatolickie",
@@ -12,13 +12,13 @@
         "adres": "ul. Piotrkowska 265",
         "styl": "neogotyk",
         "opis": "Główna świątynia archidiecezji łódzkiej.",
-        "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Katedra_%C5%82%C3%B3dzka.jpg"
+        "zdjecie": "https://pl.wikipedia.org/wiki/Plik:Lodz_katedra_(dron).jpg"
       }
     },
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.46087, 51.77551] },
+      "geometry": { "type": "Point", "coordinates": [51.78322, 19.45414] },
       "properties": {
         "nazwa": "Kościół Wniebowzięcia NMP",
         "wyznanie": "rzymskokatolickie",
@@ -32,7 +32,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.48063, 51.75242] },
+      "geometry": { "type": "Point", "coordinates": [51.77773, 19.44902] },
       "properties": {
         "nazwa": "Kościół św. Józefa Oblubieńca",
         "wyznanie": "rzymskokatolickie",
@@ -46,12 +46,12 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.42361, 51.76391] },
+      "geometry": { "type": "Point", "coordinates": [51.77838, 19.48056] },
       "properties": {
         "nazwa": "Kościół św. Teresy od Dzieciątka Jezus",
         "wyznanie": "rzymskokatolickie",
         "rok_budowy": "1928–1931",
-        "adres": "ul. Kopernika 1/3",
+        "adres": "ul. Kopcińskiego 1/3",
         "styl": "modernizm",
         "opis": "Kościół w zachodniej części Łodzi.",
         "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kosciol_sw_Teresy_Lodz.jpg"
@@ -60,7 +60,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.43891, 51.75998] },
+      "geometry": { "type": "Point", "coordinates": [51.74650, 19.46042] },
       "properties": {
         "nazwa": "Kościół św. Mateusza (ewangelicki)",
         "wyznanie": "ewangelickie",
@@ -74,12 +74,12 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.44977, 51.77692] },
+      "geometry": { "type": "Point", "coordinates": [51.74237, 19.56153] },
       "properties": {
         "nazwa": "Kościół św. Jana (ewangelicki)",
         "wyznanie": "ewangelickie",
         "rok_budowy": "1880–1884",
-        "adres": "ul. Sienkiewicza 60",
+        "adres": "ul. Odnowiciela 5",
         "styl": "neogotyk",
         "opis": "Historyczny kościół luterański.",
         "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Kosciol_sw_Jana_Lodz.jpg"
@@ -88,7 +88,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.46752, 51.75992] },
+      "geometry": { "type": "Point", "coordinates": [51.77071, 19.46425] },
       "properties": {
         "nazwa": "Sobór św. Aleksandra Newskiego",
         "wyznanie": "prawosławne",
@@ -102,7 +102,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.45562, 51.77432] },
+      "geometry": { "type": "Point", "coordinates": [51.77598, 19.46140] },
       "properties": {
         "nazwa": "Synagoga Reicherów",
         "wyznanie": "judaizm",
@@ -116,7 +116,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.45881, 51.77616] },
+      "geometry": { "type": "Point", "coordinates": [51.77681, 19.45471] },
       "properties": {
         "nazwa": "Miejsce po Wielkiej Synagodze",
         "wyznanie": "judaizm",
@@ -130,7 +130,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.47791, 51.77083] },
+      "geometry": { "type": "Point", "coordinates": [51.78327, 19.46159] },
       "properties": {
         "nazwa": "Kościół mariawicki św. Franciszka",
         "wyznanie": "mariawici",
@@ -144,7 +144,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.46884, 51.76153] },
+      "geometry": { "type": "Point", "coordinates": [51.76278, 19.46449] },
       "properties": {
         "nazwa": "Kościół baptystów",
         "wyznanie": "baptyści",
@@ -158,7 +158,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.43321, 51.77188] },
+      "geometry": { "type": "Point", "coordinates": [51.78759, 19.44267] },
       "properties": {
         "nazwa": "Kościół polskokatolicki św. Ducha",
         "wyznanie": "polskokatolickie",
@@ -172,26 +172,26 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.49174, 51.75293] },
+      "geometry": { "type": "Point", "coordinates": [51.74531, 19.40444] },
       "properties": {
         "nazwa": "Kościół Najświętszego Serca Jezusowego",
         "wyznanie": "rzymskokatolickie",
         "rok_budowy": "1904–1913",
-        "adres": "ul. Piotrkowska 102",
+        "adres": "ul. Retkińska 127",
         "styl": "neogotyk",
-        "opis": "Jedna z najbardziej rozpoznawalnych świątyń przy ul. Piotrkowskiej.",
+        "opis": "Jedna z najbardziej rozpoznawalnych świątyń w Łodzi",
         "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Kosciol_NSJ_Lodz.jpg"
       }
     },
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.47112, 51.74854] },
+      "geometry": { "type": "Point", "coordinates": [51.74408, 19.48252] },
       "properties": {
         "nazwa": "Kościół Adwentystów Dnia Siódmego",
         "wyznanie": "adwentyści",
         "rok_budowy": "1930",
-        "adres": "ul. Rzgowska 51",
+        "adres": "ul. Płocka 28",
         "styl": "modernizm",
         "opis": "Świątynia wspólnoty adwentystycznej.",
         "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kosciol_adwentystow_Lodz.jpg"
@@ -200,12 +200,12 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.46013, 51.75384] },
+      "geometry": { "type": "Point", "coordinates": [51.77493, 19.48147] },
       "properties": {
-        "nazwa": "Kościół Zielonoświątkowy „Oaza”",
+        "nazwa": "Kościół Zielonoświątkowy „Nowe Życie”",
         "wyznanie": "zielonoświątkowe",
         "rok_budowy": "XX w.",
-        "adres": "ul. Nawrot 27",
+        "adres": "ul. Jaracza 95/97",
         "styl": "współczesny",
         "opis": "Kościół chrześcijański nurtu zielonoświątkowego.",
         "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kosciol_zielonoswiatkowy_Lodz.jpg"
@@ -214,7 +214,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.45492, 51.78044] },
+      "geometry": { "type": "Point", "coordinates": [51.77512, 19.52104] },
       "properties": {
         "nazwa": "Dawny kościół ewangelicki św. Trójcy",
         "wyznanie": "ewangelickie",
@@ -228,12 +228,12 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [19.44621, 51.77011] },
+      "geometry": { "type": "Point", "coordinates": [51.75241, 19.44889] },
       "properties": {
-        "nazwa": "Kaplica ewangelicko-reformowana (historyczna)",
+        "nazwa": "Kościół ewangelicko-reformowany",
         "wyznanie": "ewangelicko-reformowane",
         "rok_budowy": "XIX w.",
-        "adres": "centrum Łodzi",
+        "adres": "ul. Radwańska 37",
         "styl": "historyzujący",
         "opis": "Historyczna lokalizacja kaplicy reformowanej.",
         "zdjecie": "https://upload.wikimedia.org/wikipedia/commons/8/89/Kaplica_reformowana_Lodz.jpg"
@@ -242,3 +242,4 @@
 
   ]
 }
+
