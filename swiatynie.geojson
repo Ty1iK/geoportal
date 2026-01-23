@@ -4,7 +4,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.74911, 19.46028] },
+      "geometry": { "type": "Point", "coordinates": [19.46028, 51.74911] },
       "properties": {
         "nazwa": "Archikatedra św. Stanisława Kostki",
         "wyznanie": "rzymskokatolickie",
@@ -18,7 +18,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.78322, 19.45414] },
+      "geometry": { "type": "Point", "coordinates": [19.45414, 51.78322] },
       "properties": {
         "nazwa": "Kościół Wniebowzięcia NMP",
         "wyznanie": "rzymskokatolickie",
@@ -32,7 +32,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.77773, 19.44902] },
+      "geometry": { "type": "Point", "coordinates": [19.44902, 51.77773] },
       "properties": {
         "nazwa": "Kościół św. Józefa Oblubieńca",
         "wyznanie": "rzymskokatolickie",
@@ -46,7 +46,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.77838, 19.48056] },
+      "geometry": { "type": "Point", "coordinates": [19.48056, 51.77838] },
       "properties": {
         "nazwa": "Kościół św. Teresy od Dzieciątka Jezus",
         "wyznanie": "rzymskokatolickie",
@@ -60,7 +60,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.74650, 19.46042] },
+      "geometry": { "type": "Point", "coordinates": [19.46042, 51.74650] },
       "properties": {
         "nazwa": "Kościół św. Mateusza (ewangelicki)",
         "wyznanie": "ewangelickie",
@@ -74,7 +74,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.74237, 19.56153] },
+      "geometry": { "type": "Point", "coordinates": [19.56153, 51.74237] },
       "properties": {
         "nazwa": "Kościół św. Jana (ewangelicki)",
         "wyznanie": "ewangelickie",
@@ -88,7 +88,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.77071, 19.46425] },
+      "geometry": { "type": "Point", "coordinates": [19.46425, 51.77071] },
       "properties": {
         "nazwa": "Sobór św. Aleksandra Newskiego",
         "wyznanie": "prawosławne",
@@ -102,7 +102,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.77598, 19.46140] },
+      "geometry": { "type": "Point", "coordinates": [19.46140, 51.77598] },
       "properties": {
         "nazwa": "Synagoga Reicherów",
         "wyznanie": "judaizm",
@@ -116,7 +116,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.77681, 19.45471] },
+      "geometry": { "type": "Point", "coordinates": [19.45471, 51.77681] },
       "properties": {
         "nazwa": "Miejsce po Wielkiej Synagodze",
         "wyznanie": "judaizm",
@@ -130,7 +130,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.78327, 19.46159] },
+      "geometry": { "type": "Point", "coordinates": [19.46159, 51.78327] },
       "properties": {
         "nazwa": "Kościół mariawicki św. Franciszka",
         "wyznanie": "mariawici",
@@ -144,7 +144,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.76278, 19.46449] },
+      "geometry": { "type": "Point", "coordinates": [19.46449, 51.76278] },
       "properties": {
         "nazwa": "Kościół baptystów",
         "wyznanie": "baptyści",
@@ -158,7 +158,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.78759, 19.44267] },
+      "geometry": { "type": "Point", "coordinates": [19.44267, 51.78759] },
       "properties": {
         "nazwa": "Kościół polskokatolicki św. Ducha",
         "wyznanie": "polskokatolickie",
@@ -172,7 +172,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.74531, 19.40444] },
+      "geometry": { "type": "Point", "coordinates": [19.40444, 51.74531] },
       "properties": {
         "nazwa": "Kościół Najświętszego Serca Jezusowego",
         "wyznanie": "rzymskokatolickie",
@@ -186,7 +186,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.74408, 19.48252] },
+      "geometry": { "type": "Point", "coordinates": [19.48252, 51.74408] },
       "properties": {
         "nazwa": "Kościół Adwentystów Dnia Siódmego",
         "wyznanie": "adwentyści",
@@ -200,7 +200,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.77493, 19.48147] },
+      "geometry": { "type": "Point", "coordinates": [19.48147, 51.77493] },
       "properties": {
         "nazwa": "Kościół Zielonoświątkowy „Nowe Życie”",
         "wyznanie": "zielonoświątkowe",
@@ -214,7 +214,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.77512, 19.52104] },
+      "geometry": { "type": "Point", "coordinates": [19.52104, 51.77512] },
       "properties": {
         "nazwa": "Dawny kościół ewangelicki św. Trójcy",
         "wyznanie": "ewangelickie",
@@ -228,7 +228,7 @@
 
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [51.75241, 19.44889] },
+      "geometry": { "type": "Point", "coordinates": [19.44889, 51.75241] },
       "properties": {
         "nazwa": "Kościół ewangelicko-reformowany",
         "wyznanie": "ewangelicko-reformowane",
@@ -242,4 +242,5 @@
 
   ]
 }
+
 
