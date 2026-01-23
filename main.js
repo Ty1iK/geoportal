@@ -44,7 +44,7 @@ fetch('swiatynie.geojson')
           Rok budowy: ${feature.properties.rok_budowy}<br>
           Adres: ${feature.properties.adres}<br>
           Styl: ${feature.properties.styl}<br>
-          <img src="${feature.properties.zdjecie}" width="200" alt = "Zdjęcie obiektu">
+          <img src="${feature.properties.zdjecie}" width="200" alt = "Brak zdjęcia">
         `);
       }
     }).addTo(map);
@@ -57,6 +57,7 @@ L.easyPrint({
   position: 'topleft',
   sizeModes: ['Current', 'A4Landscape', 'A4Portrait']
 }).addTo(map);
+
 
 
 
