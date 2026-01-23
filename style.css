@@ -19,7 +19,10 @@ html, body {
   color: darkred;
   font-weight: bold;
   text-align: center;
+  -webkit-text-stroke: 1px black;
+  text-stroke: 1px black;
 }
+
 
 
 
