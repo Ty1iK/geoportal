@@ -26,7 +26,7 @@ L.control.layers(baseMaps).addTo(map);
 var ikonka = L.divIcon({
   html: '✝',
   className: 'church-icon',
-  iconSize: [30, 30],
+  iconSize: [35, 35],
   iconAnchor: [15, 15]
 });
 
@@ -59,6 +59,7 @@ L.easyPrint({
   position: 'topleft',
   sizeModes: ['Current', 'A4Landscape', 'A4Portrait']
 }).addTo(map);
+
 
 
 
