@@ -15,40 +15,12 @@ html, body {
 }
 
 .church-icon {
-  font-size: 28px;
+  font-size: 32px;
   color: darkred;
   font-weight: bold;
   text-align: center;
 }
 
-
-/* .cross-marker {
-    width: 20px;
-    height: 20px;
-    position: relative;
-}
-
-.cross-marker::before,
-.cross-marker::after {
-    content: "";
-    position: absolute;
-    background: darkred;
-}
-
-.cross-marker::before {
-    width: 20px;
-    height: 3px;
-    top: 8px;
-    left: 0;
-}
-
-.cross-marker::after {
-    height: 20px;
-    width: 3px;
-    left: 8px;
-    top: 0; 
-}
-*/
 
 
 
